@@ -1,4 +1,4 @@
-# DPR Projekt
+# DPR Project
 
 Requirements:
 	python 2.7
