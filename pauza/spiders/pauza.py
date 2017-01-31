@@ -13,7 +13,6 @@ class PauzaItem(scrapy.Item):
 
 
 class PauzaSpider(scrapy.Spider):
-
     name = "pauza"
     start_urls = ['http://www.pauza.hr/sitemap.xml']
     driver = webdriver.Chrome('/usr/bin/chromedriver')
@@ -27,6 +26,7 @@ class PauzaSpider(scrapy.Spider):
     area_restorant_mapper = dict()
 
     def parse(self, response):
+        '''Parses thought response and gets areas, yileds area_url.'''
         urls = re.findall('<loc>(.*)<\/loc>', response.text)
         area_urls = [re.search('(.*)\/dostava', url).group(1) for url in urls if 'dostava' in url]
 
@@ -41,6 +41,7 @@ class PauzaSpider(scrapy.Spider):
                 yield scrapy.Request(area_url, callback=self.parse_restorants)
 
     def parse_restorants(self, response):
+        '''Uses area_urls to get restoran_names for every individual area.'''
         area_url = response.url
         restoran_names = Selector(response=response).xpath('//div[@class="index-items"]//strong/a/text()').extract()
 
@@ -67,6 +68,7 @@ class PauzaSpider(scrapy.Spider):
             yield item
 
     def get_phone_number(self, restoran_name):
+        '''Input restoran_name and outputs phone_number using selenium.'''
         url = 'http://www.google.com/search?q=' + restoran_name
         self.driver.get(url)
         sleep(5)

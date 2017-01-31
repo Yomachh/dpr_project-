@@ -1,5 +1,743 @@
 phone_number,city,restoran_name,area
-"set([u'051 514 472', u'385 51 514'])",rijeka,Pizzeria Do It,brajda
-"set([u'051 453 252', u'099 884 5435', u'385 21 412', u'099 884 54'])",rijeka,Fast Food Tweety,brajda
-set([u'051 333 353']),rijeka,Pizzeria Van Gogh,brajda
-set([u'051 459 909']),rijeka,Pizza Place Destino,brajda
+set([u'051 333 353']),rijeka,Pizzeria Van Gogh,drenova
+"set([u'051 453 252', u'099 884 5435', u'385 21 412', u'099 884 54'])",rijeka,Fast Food Tweety,drenova
+set([u'0800 25 91']),rijeka,Brum Brum,podmurvice
+set([u'051 333 353']),rijeka,Pizzeria Van Gogh,podmurvice
+"set([u'051 514 472', u'385 51 514'])",rijeka,Pizzeria Do It,podmurvice
+"set([u'051 453 252', u'099 884 5435', u'385 21 412', u'099 884 54'])",rijeka,Fast Food Tweety,pulac
+set([u'051 333 353']),rijeka,Pizzeria Van Gogh,pulac
+set([u'0800 25 91']),rijeka,Brum Brum,pulac
+set([u'051 333 353']),rijeka,Pizzeria Van Gogh,brascine
+"set([u'051 453 252', u'099 884 5435', u'385 21 412', u'099 884 54'])",rijeka,Fast Food Tweety,brascine
+set([]),rijeka,Fast food Piccolo,delta
+set([u'051 333 353']),rijeka,Pizzeria Van Gogh,delta
+"set([u'051 514 472', u'385 51 514'])",rijeka,Pizzeria Do It,delta
+set([u'0800 25 91']),rijeka,Brum Brum,potok
+"set([u'051 514 472', u'385 51 514'])",rijeka,Pizzeria Do It,potok
+set([u'051 333 353']),rijeka,Pizzeria Van Gogh,potok
+"set([u'051 453 252', u'099 884 5435', u'385 21 412', u'099 884 54'])",rijeka,Fast Food Tweety,potok
+set([u'051 459 909']),rijeka,Pizza Place Destino,potok
+set([u'051 224 531']),rijeka,Cheers pub,krnjevo
+set([u'051 333 353']),rijeka,Pizzeria Van Gogh,krnjevo
+"set([u'051 453 252', u'099 884 5435', u'385 21 412', u'099 884 54'])",rijeka,Fast Food Tweety,krnjevo
+"set([u'051 514 472', u'385 51 514'])",rijeka,Pizzeria Do It,turnic
+set([u'051 333 353']),rijeka,Pizzeria Van Gogh,turnic
+set([u'01 3025 888']),zagreb,Mrak Grill,kamenarka
+set([u'01 6132 150']),zagreb,Il Mondo,kamenarka
+set([u'091 762 5821']),zagreb,Brko i Brko,kamenarka
+set([u'01 3890 723']),zagreb,Marinero Grill Prečko,dugave
+set([u'01 6637 644']),zagreb,Bistro Mon Ami,kamenarka
+set([]),zagreb,Pizzeria Stross,dugave
+set([u'01 6199 144']),zagreb,Pizza Slavonija,kamenarka
+set([]),zagreb,Pečenjara Tigrić RTL,dugave
+"set([u'040 365 177', u'1 55 89', u'01 5589 773'])",zagreb,Pyrus,kamenarka
+set([u'01 5560 107']),zagreb,Kebab Maksimir,trnje
+set([u'01 4810 850']),zagreb,Catering Milenium,dugave
+set([u'01 5560 979']),zagreb,Pizza-Boo,kamenarka
+"set([u'01 6387 802', u'385 1 6387'])",zagreb,Bon Appetit Catering,trnje
+set([]),zagreb,Ani-Kebab,centar
+set([]),zagreb,Kum,dugave
+"set([u'099 407 3274', u'01 2323 377', u'099 576 0334'])",zagreb,Libertas,kamenarka
+set([]),zagreb,Super Kebab,trnje
+set([u'01 4616 649']),zagreb,MS Grill,centar
+set([u'56 2 2207']),zagreb,Pizzeria Mezzanotte,dugave
+"set([u'01 5619 990', u'01 561 99'])",zagreb,Zlatna Bula,kamenarka
+set([u'095 359 8268']),zagreb,Krpice sa zeljem,mirosevac
+"set([u'099 407 3274', u'01 2323 377', u'099 576 0334'])",zagreb,Libertas,trnje
+set([]),zagreb,Voćarna Ceker,centar
+set([u'01 6199 144']),zagreb,Pizza Slavonija,dugave
+set([u'56 2 2207']),zagreb,Pizzeria Mezzanotte,kamenarka
+set([u'01 5560 107']),zagreb,Kebab Maksimir,mirosevac
+set([u'385 91 461']),zagreb,Grill Bistro Tomislav,trnje
+set([u'01 4618 052']),zagreb,Fast Food Filip,centar
+"set([u'01 5619 990', u'01 561 99'])",zagreb,Zlatna Bula,dugave
+set([u'01 2452 834']),zagreb,Favola Catering,kamenarka
+set([]),zagreb,Family Catering,mirosevac
+"set([u'01 5619 990', u'01 561 99'])",zagreb,Zlatna Bula,trnje
+"set([u'01 4846 922', u'01 4586 089'])",zagreb,Franky's Pizza Bar,centar
+set([u'01 5560 979']),zagreb,Pizza-Boo,dugave
+set([u'01 4810 850']),zagreb,Catering Milenium,kamenarka
+set([]),zagreb,Pizzeria Stross,trnje
+set([u'01 6199 144']),zagreb,Pizza Slavonija,centar
+set([u'01 3025 888']),zagreb,Mrak Grill,dugave
+set([]),zagreb,Pečenjara Tigrić RTL,kamenarka
+set([u'01 6132 150']),zagreb,Il Mondo,trnje
+"set([u'234 34 34', u'01 2343 434'])",zagreb,Pizzeria Tomato - Bukovac,centar
+set([u'01 6132 150']),zagreb,Il Mondo,dugave
+set([u'095 359 8268']),zagreb,Krpice sa zeljem,kamenarka
+set([u'385 51 324']),zagreb,Wok by Matija,trnje
+set([u'385 91 461']),zagreb,Grill Bistro Tomislav,centar
+set([u'01 6142 659']),zagreb,Paesano Ristorante Pizzeria,dugave
+set([u'61 18 831']),zagreb,Grill House Azzuro,kamenarka
+set([u'095 359 8268']),zagreb,Krpice sa zeljem,trnje
+set([]),zagreb,Zagy Pizza & Sandwich Bar,centar
+set([u'01 5620 335']),zagreb,Kung Food,dugave
+set([u'098 777 577']),zagreb,Vege fino za sve,kamenarka
+set([u'01 4810 850']),zagreb,Catering Milenium,trnje
+"set([u'01 6387 802', u'385 1 6387'])",zagreb,Bon Appetit Catering,centar
+set([u'01 6170 864']),zagreb,Pizzeria Strossmayer,dugave
+"set([u'01 6182 535', u'61 82 535'])",zagreb,Cydonia,kamenarka
+set([]),zagreb,Kum,trnje
+"set([u'01 5619 990', u'01 561 99'])",zagreb,Zlatna Bula,centar
+"set([u'099 407 3274', u'01 2323 377', u'099 576 0334'])",zagreb,Libertas,dugave
+set([u'01 6111 309']),zagreb,Catering Anđeo,kamenarka
+set([u'01 6170 864']),zagreb,Pizzeria Strossmayer,trnje
+set([]),zagreb,Kum,centar
+set([u'01 6637 644']),zagreb,Bistro Mon Ami,dugave
+set([u'091 574 0865']),zagreb,Food Harmony,kamenarka
+set([u'091 762 5821']),zagreb,Brko i Brko,trnje
+set([u'01 3097 447']),zagreb,Bistro To-Mi,centar
+set([u'095 359 8268']),zagreb,Krpice sa zeljem,dugave
+"set([u'097 777 95', u'097 777 9567'])",zagreb,Voćarna Mali vrt,kamenarka
+set([u'099 409 3434']),zagreb,Pizzeria Astro,trnje
+set([u'01 5560 979']),zagreb,Pizza-Boo,centar
+set([u'098 777 577']),zagreb,Vege fino za sve,dugave
+set([u'01 3890 723']),zagreb,Marinero Grill Prečko,trnje
+"set([u'040 365 177', u'1 55 89', u'01 5589 773'])",zagreb,Pyrus,centar
+set([u'01 6111 309']),zagreb,Catering Anđeo,dugave
+set([u'01 3025 888']),zagreb,Mrak Grill,trnje
+set([]),zagreb,Sombrero - Meksikanac,centar
+set([u'091 574 0865']),zagreb,Food Harmony,dugave
+set([]),zagreb,Sombrero - Meksikanac,trnje
+set([]),zagreb,Family Catering,centar
+"set([u'01 6182 535', u'61 82 535'])",zagreb,Cydonia,dugave
+set([u'61 18 831']),zagreb,Grill House Azzuro,trnje
+"set([u'01 8890 719', u'88 90 719'])",zagreb,Pizzeria Poma,centar
+"set([u'097 777 95', u'097 777 9567'])",zagreb,Voćarna Mali vrt,dugave
+"set([u'01 8890 719', u'88 90 719'])",zagreb,Pizzeria Poma,trnje
+set([]),zagreb,Kitchen & Grill Plac,centar
+set([]),zagreb,R&B Food,dugave
+set([]),zagreb,Voćarna Ceker,trnje
+set([u'01 2452 834']),zagreb,Favola Catering,centar
+"set([u'61 30 300', u'042 212 017'])",zagreb,Pizzeria Domenico,trnje
+set([u'01 5560 107']),zagreb,Kebab Maksimir,centar
+set([u'01 2408 111']),zagreb,Restoran Kuhinja,trnje
+set([u'095 359 8268']),zagreb,Krpice sa zeljem,centar
+set([u'01 3095 555']),zagreb,Pizzeria Zlatna kuna,trnje
+set([u'01 3025 888']),zagreb,Mrak Grill,centar
+set([u'01 6199 144']),zagreb,Pizza Slavonija,trnje
+set([u'01 3890 723']),zagreb,Marinero Grill Prečko,centar
+set([u'01 5560 979']),zagreb,Pizza-Boo,trnje
+set([u'01 5620 335']),zagreb,Kung Food,centar
+set([u'01 5620 335']),zagreb,Kung Food,trnje
+set([u'095 169 6473']),zagreb,California Burrito bar,centar
+set([u'01 3704 787']),zagreb,Pizzeria Zagabria,trnje
+set([u'099 409 3434']),zagreb,Pizzeria Astro,centar
+set([u'01 2452 834']),zagreb,Favola Catering,trnje
+set([u'385 51 324']),zagreb,Wok by Matija,centar
+set([u'095 897 7843']),zagreb,Mambo Catering,trnje
+set([u'01 3456 555']),zagreb,Zagi Pizzeria & Grill,centar
+set([u'035 441 244']),zagreb,King Kebab,trnje
+set([u'01 4810 850']),zagreb,Catering Milenium,centar
+set([u'01 4618 052']),zagreb,Fast Food Filip,trnje
+set([]),zagreb,Pizzeria Stross,centar
+set([u'091 574 0865']),zagreb,Food Harmony,trnje
+"set([u'099 407 3274', u'01 2323 377', u'099 576 0334'])",zagreb,Libertas,centar
+set([]),zagreb,R&B Food,trnje
+set([u'01 3704 787']),zagreb,Pizzeria Zagabria,centar
+set([u'01 6192 178']),zagreb,Mostovi,trnje
+set([u'035 441 244']),zagreb,King Kebab,centar
+"set([u'097 777 95', u'097 777 9567'])",zagreb,Voćarna Mali vrt,trnje
+set([u'01 6170 864']),zagreb,Pizzeria Strossmayer,centar
+set([u'098 777 577']),zagreb,Vege fino za sve,trnje
+set([u'01 3095 555']),zagreb,Pizzeria Zlatna kuna,centar
+"set([u'01 6182 535', u'61 82 535'])",zagreb,Cydonia,trnje
+"set([u'01 29 11', u'01 2911 047'])",zagreb,Side Bar Pizzeria,centar
+set([u'01 6182 230']),zagreb,Trattoria Fretta Gusto,trnje
+"set([u'097 777 95', u'097 777 9567'])",zagreb,Voćarna Mali vrt,centar
+set([]),zagreb,GTi,trnje
+"set([u'01 6182 535', u'61 82 535'])",zagreb,Cydonia,centar
+set([u'01 6192 178']),zagreb,Mostovi,centar
+set([u'01 4837 787']),zagreb,Bistro Kaptol,centar
+set([]),zagreb,GTi,centar
+set([]),zagreb,Pro.Cat. i Gastro,centar
+"set([u'01 3090 991', u'385 1 3090'])",zagreb,Selski Kutak,centar
+set([u'098 777 577']),zagreb,Vege fino za sve,centar
+set([u'091 574 0865']),zagreb,Food Harmony,centar
+set([]),zagreb,R&B Food,centar
+"set([u'01 8890 719', u'88 90 719'])",zagreb,Pizzeria Poma,poljanice
+set([u'01 5560 107']),zagreb,Kebab Maksimir,poljanice
+set([u'01 5620 335']),zagreb,Kung Food,poljanice
+set([u'095 359 8268']),zagreb,Krpice sa zeljem,poljanice
+set([u'091 762 5821']),zagreb,Brko i Brko,poljanice
+"set([u'097 777 95', u'097 777 9567'])",zagreb,Voćarna Mali vrt,leskovac
+"set([u'040 365 177', u'1 55 89', u'01 5589 773'])",zagreb,Pyrus,poljanice
+set([u'091 574 0865']),zagreb,Food Harmony,leskovac
+set([u'091 574 0865']),zagreb,Food Harmony,poljanice
+set([]),zagreb,R&B Food,poljanice
+"set([u'097 777 95', u'097 777 9567'])",zagreb,Voćarna Mali vrt,poljanice
+set([u'01 2352 775']),zagreb,Gableci i to,poljanice
+set([u'01 400 32']),zagreb,Pizzeria i pečenjarnica XL,brestje
+"set([u'81 7 90', u'01 2990 299'])",zagreb,Pizzeria Verona Due,poljanice
+set([u'01 5620 335']),zagreb,Kung Food,brestje
+"set([u'040 365 177', u'1 55 89', u'01 5589 773'])",zagreb,Pyrus,brestje
+set([u'56 2 2207']),zagreb,Pizzeria Mezzanotte,polje
+"set([u'097 777 95', u'097 777 9567'])",zagreb,Voćarna Mali vrt,brestje
+"set([u'81 7 90', u'01 2990 299'])",zagreb,Pizzeria Verona Due,brestje
+set([u'091 574 0865']),zagreb,Food Harmony,brestje
+set([u'01 400 32']),zagreb,Pizzeria i pečenjarnica XL,retkovec
+"set([u'040 365 177', u'1 55 89', u'01 5589 773'])",zagreb,Pyrus,retkovec
+set([u'01 5620 335']),zagreb,Kung Food,retkovec
+set([u'01 2303 294']),zagreb,Pivnica Budweiser,svetice
+"set([u'01 8890 719', u'88 90 719'])",zagreb,Pizzeria Poma,retkovec
+"set([u'01 2316 438', u'01 231 64'])",zagreb,Pizzeria Gentleman,svetice
+set([u'091 762 5821']),zagreb,Brko i Brko,retkovec
+set([u'01 6170 864']),zagreb,Pizzeria Strossmayer,svetice
+set([u'01 5560 107']),zagreb,Kebab Maksimir,retkovec
+set([u'01 2922 414']),zagreb,Pizzeria Amfora,precko
+set([]),zagreb,Pizzeria Stross,svetice
+"set([u'099 838 1175', u'01 2917 704'])",zagreb,Pizzeria San Marco,retkovec
+set([]),zagreb,Pizzeria Stross,precko
+set([u'01 5560 107']),zagreb,Kebab Maksimir,svetice
+set([u'091 574 0865']),zagreb,Food Harmony,retkovec
+set([]),zagreb,Pro.Cat. i Gastro,bijenik
+set([u'01 3730 373']),zagreb,Pizzeria S.O.S.,precko
+set([u'01 3025 888']),zagreb,Mrak Grill,svetice
+"set([u'81 7 90', u'01 2990 299'])",zagreb,Pizzeria Verona Due,retkovec
+"set([u'099 407 3274', u'01 2323 377', u'099 576 0334'])",zagreb,Libertas,bijenik
+set([u'01 6199 144']),zagreb,Pizza Slavonija,precko
+set([u'385 51 324']),zagreb,Wok by Matija,svetice
+set([u'01 2352 775']),zagreb,Gableci i to,retkovec
+set([u'01 3456 555']),zagreb,Zagi Pizzeria & Grill,bijenik
+set([u'095 359 8268']),zagreb,Krpice sa zeljem,precko
+set([u'01 4618 052']),zagreb,Fast Food Filip,svetice
+"set([u'097 777 95', u'097 777 9567'])",zagreb,Voćarna Mali vrt,retkovec
+set([]),zagreb,Zagy Pizza & Sandwich Bar,bijenik
+"set([u'099 407 3274', u'01 2323 377', u'099 576 0334'])",zagreb,Libertas,precko
+set([u'01 2452 834']),zagreb,Favola Catering,svetice
+"set([u'01 6182 535', u'61 82 535'])",zagreb,Cydonia,retkovec
+set([u'095 359 8268']),zagreb,Krpice sa zeljem,bijenik
+set([u'01 4810 850']),zagreb,Catering Milenium,precko
+set([u'035 441 244']),zagreb,King Kebab,svetice
+set([]),zagreb,Family Catering,bijenik
+"set([u'385 1 5584', u'01 5584 039'])",zagreb,Špajza,precko
+set([u'01 2408 111']),zagreb,Restoran Kuhinja,svetice
+set([u'01 3704 787']),zagreb,Pizzeria Zagabria,bijenik
+set([u'01 5516 264']),zagreb,Purger King,precko
+set([u'01 6132 150']),zagreb,Il Mondo,svetice
+"set([u'040 365 177', u'1 55 89', u'01 5589 773'])",zagreb,Pyrus,bijenik
+"set([u'01 6387 802', u'385 1 6387'])",zagreb,Bon Appetit Catering,precko
+"set([u'099 407 3274', u'01 2323 377', u'099 576 0334'])",zagreb,Libertas,svetice
+set([u'01 3025 888']),zagreb,Mrak Grill,bijenik
+set([u'01 3025 888']),zagreb,Mrak Grill,precko
+set([u'099 409 3434']),zagreb,Pizzeria Astro,svetice
+"set([u'2352 775 095', u'01 2352 775'])",zagreb,Gableci i to 2,bijenik
+set([u'01 3456 555']),zagreb,Zagi Pizzeria & Grill,precko
+"set([u'234 34 34', u'01 2343 434'])",zagreb,Pizzeria Tomato - Bukovac,svetice
+set([u'091 574 0865']),zagreb,Food Harmony,bijenik
+set([u'01 3816 753']),zagreb,Pizzeria El Mundo,precko
+"set([u'099 838 1175', u'01 2917 704'])",zagreb,Pizzeria San Marco,svetice
+"set([u'097 777 95', u'097 777 9567'])",zagreb,Voćarna Mali vrt,bijenik
+set([u'534 222 666']),zagreb,Pizzeria Enigma,precko
+"set([u'01 5619 990', u'01 561 99'])",zagreb,Zlatna Bula,svetice
+set([u'01 3890 723']),zagreb,Marinero Grill Prečko,precko
+set([]),zagreb,Ani-Kebab,svetice
+set([]),zagreb,Sombrero - Meksikanac,precko
+"set([u'040 365 177', u'1 55 89', u'01 5589 773'])",zagreb,Pyrus,svetice
+set([]),zagreb,Kum,precko
+set([u'01 4616 649']),zagreb,MS Grill,svetice
+set([]),zagreb,Pro.Cat. i Gastro,precko
+set([u'385 91 461']),zagreb,Grill Bistro Tomislav,svetice
+set([u'092 341 6447']),zagreb,Street food Carlito,precko
+set([u'095 359 8268']),zagreb,Krpice sa zeljem,svetice
+set([u'01 5560 979']),zagreb,Pizza-Boo,precko
+set([u'091 762 5821']),zagreb,Brko i Brko,svetice
+set([u'01 3095 555']),zagreb,Pizzeria Zlatna kuna,precko
+set([u'01 5620 335']),zagreb,Kung Food,svetice
+"set([u'040 365 177', u'1 55 89', u'01 5589 773'])",zagreb,Pyrus,precko
+set([u'098 279 194']),zagreb,Pizzeria Čuki,svetice
+set([u'01 5620 335']),zagreb,Kung Food,precko
+"set([u'01 4846 922', u'01 4586 089'])",zagreb,Franky's Pizza Bar,svetice
+set([u'01 3704 787']),zagreb,Pizzeria Zagabria,precko
+set([]),zagreb,Family Catering,svetice
+"set([u'63 10 000', u'01 6646 339'])",zagreb,Catering Rajnglica,precko
+set([u'01 6199 144']),zagreb,Pizza Slavonija,svetice
+set([]),zagreb,Olla2,precko
+set([u'01 6192 178']),zagreb,Mostovi,svetice
+"set([u'097 777 95', u'097 777 9567'])",zagreb,Voćarna Mali vrt,precko
+"set([u'01 6182 535', u'61 82 535'])",zagreb,Cydonia,svetice
+set([]),zagreb,Bistro Tanjurček,precko
+set([u'01 2352 775']),zagreb,Gableci i to,svetice
+set([u'098 777 577']),zagreb,Vege fino za sve,precko
+"set([u'81 7 90', u'01 2990 299'])",zagreb,Pizzeria Verona Due,svetice
+"set([u'01 3090 991', u'385 1 3090'])",zagreb,Selski Kutak,precko
+set([u'01 6182 230']),zagreb,Trattoria Fretta Gusto,svetice
+"set([u'2352 775 095', u'01 2352 775'])",zagreb,Gableci i to 2,precko
+"set([u'097 777 95', u'097 777 9567'])",zagreb,Voćarna Mali vrt,svetice
+set([]),zagreb,R&B Food,precko
+set([u'098 777 577']),zagreb,Vege fino za sve,svetice
+set([]),zagreb,Famoso Food,precko
+set([u'091 574 0865']),zagreb,Food Harmony,svetice
+set([u'091 574 0865']),zagreb,Food Harmony,precko
+"set([u'01 4846 922', u'01 4586 089'])",zagreb,Franky's Pizza Bar,zavrtnica
+"set([u'099 407 3274', u'01 2323 377', u'099 576 0334'])",zagreb,Libertas,zavrtnica
+"set([u'01 8890 719', u'88 90 719'])",zagreb,Pizzeria Poma,zavrtnica
+set([u'01 6170 864']),zagreb,Pizzeria Strossmayer,zavrtnica
+set([u'01 6132 150']),zagreb,Il Mondo,zavrtnica
+set([u'01 2303 294']),zagreb,Pivnica Budweiser,zavrtnica
+set([u'095 359 8268']),zagreb,Krpice sa zeljem,markusevec
+set([]),zagreb,Voćarna Ceker,zavrtnica
+set([u'01 5620 335']),zagreb,Kung Food,markusevec
+set([u'01 2408 111']),zagreb,Restoran Kuhinja,zavrtnica
+set([u'035 441 244']),zagreb,King Kebab,gornji
+set([u'01 5560 107']),zagreb,Kebab Maksimir,markusevec
+"set([u'234 34 34', u'01 2343 434'])",zagreb,Pizzeria Tomato - Bukovac,zavrtnica
+set([u'01 5620 335']),zagreb,Kung Food,gornji
+"set([u'01 8890 719', u'88 90 719'])",zagreb,Pizzeria Poma,markusevec
+set([u'01 3025 888']),zagreb,Mrak Grill,zavrtnica
+set([u'01 2303 294']),zagreb,Pivnica Budweiser,gornji
+set([]),zagreb,Family Catering,markusevec
+set([u'01 5560 979']),zagreb,Pizza-Boo,zavrtnica
+set([u'385 51 324']),zagreb,Wok by Matija,bukovac
+"set([u'01 2316 438', u'01 231 64'])",zagreb,Pizzeria Gentleman,gornji
+set([u'385 51 324']),zagreb,Wok by Matija,markusevec
+set([u'035 441 244']),zagreb,King Kebab,zavrtnica
+"set([u'099 838 1175', u'01 2917 704'])",zagreb,Pizzeria San Marco,bukovac
+set([u'385 91 461']),zagreb,Grill Bistro Tomislav,gornji
+set([]),zagreb,Dalmistra,markusevec
+set([u'095 359 8268']),zagreb,Krpice sa zeljem,zavrtnica
+"set([u'01 2316 438', u'01 231 64'])",zagreb,Pizzeria Gentleman,bukovac
+set([u'091 762 5821']),zagreb,Brko i Brko,gornji
+set([u'01 2352 775']),zagreb,Gableci i to,markusevec
+set([u'385 91 461']),zagreb,Grill Bistro Tomislav,zavrtnica
+set([u'01 5560 107']),zagreb,Kebab Maksimir,bukovac
+set([u'01 2408 111']),zagreb,Restoran Kuhinja,gornji
+"set([u'097 777 95', u'097 777 9567'])",zagreb,Voćarna Mali vrt,markusevec
+set([u'385 51 324']),zagreb,Wok by Matija,zavrtnica
+set([u'01 2303 294']),zagreb,Pivnica Budweiser,bukovac
+set([u'099 409 3434']),zagreb,Pizzeria Astro,gornji
+"set([u'040 365 177', u'1 55 89', u'01 5589 773'])",zagreb,Pyrus,markusevec
+set([]),zagreb,Ani-Kebab,zavrtnica
+set([u'01 3025 888']),zagreb,Mrak Grill,bukovac
+set([u'01 3025 888']),zagreb,Mrak Grill,gornji
+set([u'091 574 0865']),zagreb,Food Harmony,markusevec
+set([u'01 5560 107']),zagreb,Kebab Maksimir,zavrtnica
+"set([u'234 34 34', u'01 2343 434'])",zagreb,Pizzeria Tomato - Bukovac,bukovac
+"set([u'01 29 11', u'01 2911 047'])",zagreb,Side Bar Pizzeria,gornji
+"set([u'01 2316 438', u'01 231 64'])",zagreb,Pizzeria Gentleman,zavrtnica
+set([u'01 2408 111']),zagreb,Restoran Kuhinja,bukovac
+set([u'385 51 324']),zagreb,Wok by Matija,gornji
+set([u'01 3704 787']),zagreb,Pizzeria Zagabria,zavrtnica
+set([u'035 441 244']),zagreb,King Kebab,bukovac
+set([u'01 5560 107']),zagreb,Kebab Maksimir,gornji
+"set([u'61 30 300', u'042 212 017'])",zagreb,Pizzeria Domenico,zavrtnica
+"set([u'099 407 3274', u'01 2323 377', u'099 576 0334'])",zagreb,Libertas,bukovac
+"set([u'099 838 1175', u'01 2917 704'])",zagreb,Pizzeria San Marco,gornji
+set([]),zagreb,Pizzeria Stross,zavrtnica
+set([u'098 279 194']),zagreb,Pizzeria Čuki,bukovac
+"set([u'01 8890 719', u'88 90 719'])",zagreb,Pizzeria Poma,gornji
+set([u'091 762 5821']),zagreb,Brko i Brko,zavrtnica
+set([u'01 6170 864']),zagreb,Pizzeria Strossmayer,bukovac
+"set([u'81 7 90', u'01 2990 299'])",zagreb,Pizzeria Verona Due,gornji
+set([]),zagreb,Kitchen & Grill Plac,zavrtnica
+set([u'385 91 461']),zagreb,Grill Bistro Tomislav,bukovac
+set([u'091 574 0865']),zagreb,Food Harmony,gornji
+set([u'099 409 3434']),zagreb,Pizzeria Astro,zavrtnica
+set([u'091 762 5821']),zagreb,Brko i Brko,bukovac
+set([]),zagreb,R&B Food,gornji
+set([u'61 18 831']),zagreb,Grill House Azzuro,zavrtnica
+set([]),zagreb,Family Catering,bukovac
+"set([u'01 6182 535', u'61 82 535'])",zagreb,Cydonia,gornji
+"set([u'01 29 11', u'01 2911 047'])",zagreb,Side Bar Pizzeria,zavrtnica
+"set([u'01 4846 922', u'01 4586 089'])",zagreb,Franky's Pizza Bar,bukovac
+set([]),zagreb,Dalmistra,gornji
+"set([u'01 5619 990', u'01 561 99'])",zagreb,Zlatna Bula,zavrtnica
+"set([u'01 29 11', u'01 2911 047'])",zagreb,Side Bar Pizzeria,bukovac
+"set([u'040 365 177', u'1 55 89', u'01 5589 773'])",zagreb,Pyrus,gornji
+set([u'01 2452 834']),zagreb,Favola Catering,zavrtnica
+set([u'01 5620 335']),zagreb,Kung Food,bukovac
+set([u'01 2352 775']),zagreb,Gableci i to,gornji
+set([u'01 6199 144']),zagreb,Pizza Slavonija,zavrtnica
+"set([u'01 8890 719', u'88 90 719'])",zagreb,Pizzeria Poma,bukovac
+set([u'095 359 8268']),zagreb,Krpice sa zeljem,gornji
+set([u'098 777 577']),zagreb,Vege fino za sve,zavrtnica
+set([u'01 2352 775']),zagreb,Gableci i to,bukovac
+"set([u'097 777 95', u'097 777 9567'])",zagreb,Voćarna Mali vrt,gornji
+set([u'01 6192 178']),zagreb,Mostovi,zavrtnica
+set([u'091 574 0865']),zagreb,Food Harmony,bukovac
+set([]),zagreb,R&B Food,zavrtnica
+"set([u'040 365 177', u'1 55 89', u'01 5589 773'])",zagreb,Pyrus,bukovac
+set([u'01 6111 309']),zagreb,Catering Anđeo,zavrtnica
+"set([u'81 7 90', u'01 2990 299'])",zagreb,Pizzeria Verona Due,bukovac
+set([]),zagreb,Restoran Avenija,zavrtnica
+"set([u'097 777 95', u'097 777 9567'])",zagreb,Voćarna Mali vrt,bukovac
+set([]),zagreb,Dalmistra,zavrtnica
+"set([u'01 6182 535', u'61 82 535'])",zagreb,Cydonia,bukovac
+set([]),zagreb,GTi,zavrtnica
+set([u'098 777 577']),zagreb,Vege fino za sve,bukovac
+"set([u'040 365 177', u'1 55 89', u'01 5589 773'])",zagreb,Pyrus,zavrtnica
+set([]),zagreb,R&B Food,bukovac
+set([u'01 2352 775']),zagreb,Gableci i to,zavrtnica
+set([u'095 359 8268']),zagreb,Krpice sa zeljem,bukovac
+"set([u'097 777 95', u'097 777 9567'])",zagreb,Voćarna Mali vrt,zavrtnica
+set([]),zagreb,Dalmistra,bukovac
+"set([u'01 6182 535', u'61 82 535'])",zagreb,Cydonia,zavrtnica
+set([u'01 6182 230']),zagreb,Trattoria Fretta Gusto,zavrtnica
+set([u'091 574 0865']),zagreb,Food Harmony,zavrtnica
+set([u'01 2922 414']),zagreb,Pizzeria Amfora,podsused
+set([u'092 341 6447']),zagreb,Street food Carlito,podsused
+"set([u'01 4840 619', u'047 421 136'])",zagreb,Pet Plus,podsused
+set([u'095 897 7843']),zagreb,Mambo Catering,voltino
+set([u'01 3704 787']),zagreb,Pizzeria Zagabria,podsused
+"set([u'01 5619 990', u'01 561 99'])",zagreb,Zlatna Bula,voltino
+set([u'01 3456 555']),zagreb,Zagi Pizzeria & Grill,podsused
+set([]),zagreb,Pro.Cat. i Gastro,voltino
+set([u'01 3025 888']),zagreb,Mrak Grill,podsused
+set([u'092 341 6447']),zagreb,Street food Carlito,voltino
+"set([u'097 777 95', u'097 777 9567'])",zagreb,Voćarna Mali vrt,podsused
+set([]),zagreb,Zagy Pizza & Sandwich Bar,voltino
+"set([u'63 10 000', u'01 6646 339'])",zagreb,Catering Rajnglica,podsused
+set([u'01 5620 335']),zagreb,Kung Food,trnovcica
+set([]),zagreb,Bistro To-Mi,voltino
+set([u'098 777 577']),zagreb,Vege fino za sve,podsused
+set([u'01 5560 107']),zagreb,Kebab Maksimir,trnovcica
+set([u'01 3890 723']),zagreb,Marinero Grill Prečko,voltino
+set([u'091 574 0865']),zagreb,Food Harmony,podsused
+set([]),zagreb,Family Catering,ravnice
+"set([u'01 8890 719', u'88 90 719'])",zagreb,Pizzeria Poma,trnovcica
+set([]),zagreb,Kum,voltino
+set([]),zagreb,R&B Food,podsused
+"set([u'01 2323 377', u'099 576 0334'])",zagreb,Libertas,ravnice
+set([u'385 91 461']),zagreb,Grill Bistro Tomislav,trnovcica
+set([]),zagreb,Pizza & Grill Oliva,voltino
+set([u'095 359 8268']),zagreb,Krpice sa zeljem,podsused
+set([u'01 4810 850']),zagreb,Catering Milenium,gredice
+set([u'035 441 244']),zagreb,King Kebab,ravnice
+set([u'091 574 0865']),zagreb,Food Harmony,trnovcica
+set([u'01 3095 555']),zagreb,Pizzeria Zlatna kuna,voltino
+set([]),zagreb,Bistro Tanjurček,podsused
+set([]),zagreb,Sombrero - Meksikanac,gredice
+set([u'099 409 3434']),zagreb,Pizzeria Astro,ravnice
+"set([u'040 365 177', u'1 55 89', u'01 5589 773'])",zagreb,Pyrus,trnovcica
+set([u'01 3025 888']),zagreb,Mrak Grill,voltino
+set([u'095 897 7843']),zagreb,Mambo Catering,gajevo
+set([]),zagreb,Super Kebab,gredice
+set([u'098 279 194']),zagreb,Pizzeria Čuki,ravnice
+"set([u'097 777 95', u'097 777 9567'])",zagreb,Voćarna Mali vrt,trnovcica
+set([u'01 3816 753']),zagreb,Pizzeria El Mundo,voltino
+set([]),zagreb,Pro.Cat. i Gastro,gajevo
+set([]),zagreb,Pizzeria Stross,gredice
+set([u'01 3025 888']),zagreb,Mrak Grill,ravnice
+set([u'095 359 8268']),zagreb,Krpice sa zeljem,trnovcica
+set([u'01 3456 555']),zagreb,Zagi Pizzeria & Grill,voltino
+set([]),zagreb,Sombrero - Meksikanac,gajevo
+"set([u'01 6387 802', u'385 1 6387'])",zagreb,Bon Appetit Catering,gredice
+set([]),zagreb,Pizzeria Stross,ravnice
+"set([u'01 6182 535', u'61 82 535'])",zagreb,Cydonia,trnovcica
+set([]),zagreb,Pizzeria Stross,voltino
+set([]),zagreb,Pizza Bar,gajevo
+"set([u'099 407 3274', u'01 2323 377', u'099 576 0334'])",zagreb,Libertas,gredice
+set([u'01 2452 834']),zagreb,Favola Catering,ravnice
+set([]),zagreb,Dalmistra,trnovcica
+set([u'01 5560 979']),zagreb,Pizza-Boo,voltino
+set([u'01 3097 447']),zagreb,Bistro To-Mi,gajevo
+set([]),zagreb,Pro.Cat. i Gastro,gredice
+"set([u'01 29 11', u'01 2911 047'])",zagreb,Side Bar Pizzeria,ravnice
+set([]),zagreb,Restoran Avenija,trnovcica
+set([u'01 6199 144']),zagreb,Pizza Slavonija,voltino
+set([u'01 3890 723']),zagreb,Marinero Grill Prečko,gajevo
+set([u'01 3025 888']),zagreb,Mrak Grill,gredice
+set([u'01 2408 111']),zagreb,Restoran Kuhinja,ravnice
+set([u'01 2352 775']),zagreb,Gableci i to,trnovcica
+"set([u'01 2323 377', u'099 576 0334'])",zagreb,Libertas,voltino
+"set([u'01 2323 377', u'099 576 0334'])",zagreb,Libertas,gajevo
+set([]),zagreb,Kum,gredice
+set([u'01 4618 052']),zagreb,Fast Food Filip,ravnice
+set([]),zagreb,Pizza Bar,voltino
+set([u'01 3816 753']),zagreb,Pizzeria El Mundo,gajevo
+set([u'01 5516 264']),zagreb,Purger King,gredice
+"set([u'01 8890 719', u'88 90 719'])",zagreb,Pizzeria Poma,ravnice
+set([u'01 3704 787']),zagreb,Pizzeria Zagabria,voltino
+set([u'01 4810 850']),zagreb,Catering Milenium,gajevo
+"set([u'01 5619 990', u'01 561 99'])",zagreb,Zlatna Bula,gredice
+set([u'385 51 324']),zagreb,Wok by Matija,ravnice
+set([u'01 6170 864']),zagreb,Pizzeria Strossmayer,voltino
+"set([u'01 6387 802', u'385 1 6387'])",zagreb,Bon Appetit Catering,gajevo
+set([u'01 2922 414']),zagreb,Pizzeria Amfora,gredice
+"set([u'099 838 1175', u'01 2917 704'])",zagreb,Pizzeria San Marco,ravnice
+set([u'534 222 666']),zagreb,Pizzeria Enigma,voltino
+set([]),zagreb,Kum,gajevo
+"set([u'385 1 5584', u'01 5584 039'])",zagreb,Špajza,gredice
+set([]),zagreb,Ani-Kebab,ravnice
+set([]),zagreb,Super Kebab,voltino
+set([u'01 3095 555']),zagreb,Pizzeria Zlatna kuna,gajevo
+set([u'01 5620 335']),zagreb,Kung Food,gredice
+"set([u'01 2316 438', u'01 231 64'])",zagreb,Pizzeria Gentleman,ravnice
+set([u'01 5620 335']),zagreb,Kung Food,voltino
+set([u'01 5620 335']),zagreb,Kung Food,gajevo
+"set([u'2352 775 095', u'01 2352 775'])",zagreb,Gableci i to 2,gredice
+set([u'385 91 461']),zagreb,Grill Bistro Tomislav,ravnice
+set([]),zagreb,Sombrero - Meksikanac,voltino
+set([u'01 6170 864']),zagreb,Pizzeria Strossmayer,gajevo
+"set([u'097 777 95', u'097 777 9567'])",zagreb,Voćarna Mali vrt,gredice
+"set([u'01 4846 922', u'01 4586 089'])",zagreb,Franky's Pizza Bar,ravnice
+"set([u'385 1 5584', u'01 5584 039'])",zagreb,Špajza,voltino
+set([u'01 3025 888']),zagreb,Mrak Grill,gajevo
+set([]),zagreb,Bistro Tanjurček,gredice
+set([u'01 2303 294']),zagreb,Pivnica Budweiser,ravnice
+set([u'01 3730 373']),zagreb,Pizzeria S.O.S.,voltino
+set([u'01 5516 264']),zagreb,Purger King,gajevo
+"set([u'01 3090 991', u'385 1 3090'])",zagreb,Selski Kutak,gredice
+set([u'01 5620 335']),zagreb,Kung Food,ravnice
+"set([u'040 365 177', u'1 55 89', u'01 5589 773'])",zagreb,Pyrus,voltino
+set([]),zagreb,Super Kebab,gajevo
+set([]),zagreb,R&B Food,gredice
+set([u'01 5560 107']),zagreb,Kebab Maksimir,ravnice
+"set([u'2352 775 095', u'01 2352 775'])",zagreb,Gableci i to 2,voltino
+set([u'01 6199 144']),zagreb,Pizza Slavonija,gajevo
+set([u'098 777 577']),zagreb,Vege fino za sve,gredice
+"set([u'234 34 34', u'01 2343 434'])",zagreb,Pizzeria Tomato - Bukovac,ravnice
+"set([u'01 3090 991', u'385 1 3090'])",zagreb,Selski Kutak,voltino
+set([]),zagreb,Pizzeria Stross,gajevo
+set([u'095 359 8268']),zagreb,Krpice sa zeljem,gredice
+set([u'01 400 32']),zagreb,Pizzeria i pečenjarnica XL,ravnice
+set([u'098 777 577']),zagreb,Vege fino za sve,voltino
+"set([u'385 1 5584', u'01 5584 039'])",zagreb,Špajza,gajevo
+set([u'091 574 0865']),zagreb,Food Harmony,gredice
+set([u'01 4616 649']),zagreb,MS Grill,ravnice
+set([u'091 574 0865']),zagreb,Food Harmony,voltino
+set([u'091 574 0865']),zagreb,Food Harmony,gajevo
+set([u'091 574 0865']),zagreb,Food Harmony,ravnice
+"set([u'097 777 95', u'097 777 9567'])",zagreb,Voćarna Mali vrt,voltino
+set([u'098 777 577']),zagreb,Vege fino za sve,gajevo
+"set([u'01 6182 535', u'61 82 535'])",zagreb,Cydonia,ravnice
+"set([u'01 6182 535', u'61 82 535'])",zagreb,Cydonia,voltino
+set([]),zagreb,Olla2,gajevo
+set([u'091 762 5821']),zagreb,Brko i Brko,ravnice
+set([]),zagreb,Dalmistra,voltino
+set([u'095 359 8268']),zagreb,Krpice sa zeljem,gajevo
+set([u'098 777 577']),zagreb,Vege fino za sve,ravnice
+set([]),zagreb,Bistro Tanjurček,voltino
+"set([u'097 777 95', u'097 777 9567'])",zagreb,Voćarna Mali vrt,gajevo
+set([u'095 359 8268']),zagreb,Krpice sa zeljem,ravnice
+set([]),zagreb,Olla2,voltino
+"set([u'097 777 95', u'097 777 9567'])",zagreb,Voćarna Mali vrt,ravnice
+set([]),zagreb,R&B Food,voltino
+set([u'01 6192 178']),zagreb,Mostovi,ravnice
+set([]),zagreb,GTi,voltino
+"set([u'040 365 177', u'1 55 89', u'01 5589 773'])",zagreb,Pyrus,ravnice
+set([u'095 359 8268']),zagreb,Krpice sa zeljem,voltino
+"set([u'81 7 90', u'01 2990 299'])",zagreb,Pizzeria Verona Due,ravnice
+set([]),zagreb,Dalmistra,ravnice
+set([u'01 2352 775']),zagreb,Gableci i to,ravnice
+set([u'01 3456 555']),zagreb,Zagi Pizzeria & Grill,stenjevec
+set([u'01 2922 414']),zagreb,Pizzeria Amfora,stenjevec
+set([u'01 3025 888']),zagreb,Mrak Grill,stenjevec
+set([u'01 3816 753']),zagreb,Pizzeria El Mundo,stenjevec
+set([u'01 3704 787']),zagreb,Pizzeria Zagabria,stenjevec
+set([u'534 222 666']),zagreb,Pizzeria Enigma,stenjevec
+set([u'01 6199 144']),zagreb,Pizza Slavonija,remetinec
+set([u'01 5516 264']),zagreb,Purger King,stenjevec
+set([u'01 5516 264']),zagreb,Purger King,remetinec
+set([u'01 5620 335']),zagreb,Kung Food,stenjevec
+set([]),zagreb,Super Kebab,remetinec
+set([u'01 3890 723']),zagreb,Marinero Grill Prečko,stenjevec
+"set([u'099 407 3274', u'01 2323 377', u'099 576 0334'])",zagreb,Libertas,remetinec
+set([]),zagreb,Sombrero - Meksikanac,stenjevec
+set([u'56 2 2207']),zagreb,Pizzeria Mezzanotte,remetinec
+set([u'092 341 6447']),zagreb,Street food Carlito,stenjevec
+set([u'01 4810 850']),zagreb,Catering Milenium,remetinec
+set([u'01 3095 555']),zagreb,Pizzeria Zlatna kuna,stenjevec
+set([]),zagreb,Sombrero - Meksikanac,remetinec
+"set([u'097 777 95', u'097 777 9567'])",zagreb,Voćarna Mali vrt,stenjevec
+set([u'035 441 244']),zagreb,King Kebab,ksaver
+set([u'095 897 7843']),zagreb,Mambo Catering,remetinec
+set([u'095 359 8268']),zagreb,Krpice sa zeljem,stenjevec
+set([u'385 51 324']),zagreb,Wok by Matija,ksaver
+set([u'01 4616 649']),zagreb,MS Grill,remetinec
+set([u'091 574 0865']),zagreb,Food Harmony,stenjevec
+set([u'01 3025 888']),zagreb,Mrak Grill,ksaver
+set([]),zagreb,Pečenjara Tigrić RTL,remetinec
+"set([u'63 10 000', u'01 6646 339'])",zagreb,Catering Rajnglica,stenjevec
+set([u'385 91 461']),zagreb,Grill Bistro Tomislav,pescenica
+"set([u'01 8890 719', u'88 90 719'])",zagreb,Pizzeria Poma,ksaver
+set([u'01 5620 335']),zagreb,Kung Food,remetinec
+set([]),zagreb,R&B Food,stenjevec
+set([u'385 51 324']),zagreb,Wok by Matija,pescenica
+set([]),zagreb,Zagy Pizza & Sandwich Bar,ksaver
+set([]),zagreb,Pizzeria Stross,remetinec
+set([u'098 777 577']),zagreb,Vege fino za sve,stenjevec
+set([u'099 409 3434']),zagreb,Pizzeria Astro,pescenica
+set([]),zagreb,Family Catering,ksaver
+set([u'01 5560 979']),zagreb,Pizza-Boo,remetinec
+set([u'01 3079 440']),zagreb,Grizli Catering,stenjevec
+"set([u'234 34 34', u'01 2343 434'])",zagreb,Pizzeria Tomato - Bukovac,pescenica
+set([u'385 91 461']),zagreb,Grill Bistro Tomislav,ksaver
+set([u'01 3890 723']),zagreb,Marinero Grill Prečko,remetinec
+set([]),zagreb,Bistro Tanjurček,stenjevec
+set([u'01 5560 107']),zagreb,Kebab Maksimir,pescenica
+set([u'01 5620 335']),zagreb,Kung Food,ksaver
+set([u'01 6142 659']),zagreb,Paesano Ristorante Pizzeria,remetinec
+set([]),zagreb,Famoso Food,stenjevec
+set([u'035 441 244']),zagreb,King Kebab,pescenica
+set([u'01 6170 864']),zagreb,Pizzeria Strossmayer,ksaver
+"set([u'01 6182 535', u'61 82 535'])",zagreb,Cydonia,remetinec
+"set([u'099 407 3274', u'01 2323 377', u'099 576 0334'])",zagreb,Libertas,pescenica
+set([]),zagreb,Kitchen & Grill Plac,ksaver
+set([u'091 574 0865']),zagreb,Food Harmony,remetinec
+"set([u'01 5619 990', u'01 561 99'])",zagreb,Zlatna Bula,pescenica
+"set([u'01 5619 990', u'01 561 99'])",zagreb,Zlatna Bula,ksaver
+"set([u'01 3090 991', u'385 1 3090'])",zagreb,Selski Kutak,remetinec
+"set([u'61 30 300', u'042 212 017'])",zagreb,Pizzeria Domenico,pescenica
+"set([u'01 4846 922', u'01 4586 089'])",zagreb,Franky's Pizza Bar,ksaver
+"set([u'097 777 95', u'097 777 9567'])",zagreb,Voćarna Mali vrt,remetinec
+set([u'01 6199 144']),zagreb,Pizza Slavonija,pescenica
+set([u'01 3704 787']),zagreb,Pizzeria Zagabria,ksaver
+set([]),zagreb,Olla2,remetinec
+set([u'01 2303 294']),zagreb,Pivnica Budweiser,pescenica
+set([]),zagreb,Voćarna Ceker,ksaver
+set([]),zagreb,R&B Food,remetinec
+set([]),zagreb,Pizzeria Stross,pescenica
+"set([u'2352 775 095', u'01 2352 775'])",zagreb,Gableci i to 2,ksaver
+set([u'095 359 8268']),zagreb,Krpice sa zeljem,remetinec
+"set([u'01 29 11', u'01 2911 047'])",zagreb,Side Bar Pizzeria,pescenica
+set([]),zagreb,Dalmistra,ksaver
+set([u'01 3079 440']),zagreb,Grizli Catering,remetinec
+set([u'01 3025 888']),zagreb,Mrak Grill,pescenica
+set([u'091 574 0865']),zagreb,Food Harmony,ksaver
+set([u'098 777 577']),zagreb,Vege fino za sve,remetinec
+set([u'01 5620 335']),zagreb,Kung Food,pescenica
+set([u'098 777 577']),zagreb,Vege fino za sve,ksaver
+"set([u'040 365 177', u'1 55 89', u'01 5589 773'])",zagreb,Pyrus,remetinec
+set([u'01 2452 834']),zagreb,Favola Catering,pescenica
+"set([u'01 6182 535', u'61 82 535'])",zagreb,Cydonia,ksaver
+"set([u'2352 775 095', u'01 2352 775'])",zagreb,Gableci i to 2,remetinec
+set([u'01 6132 150']),zagreb,Il Mondo,pescenica
+set([u'095 359 8268']),zagreb,Krpice sa zeljem,ksaver
+set([u'01 2408 111']),zagreb,Restoran Kuhinja,pescenica
+set([u'01 4837 787']),zagreb,Bistro Kaptol,ksaver
+"set([u'01 8890 719', u'88 90 719'])",zagreb,Pizzeria Poma,pescenica
+set([]),zagreb,R&B Food,ksaver
+set([u'01 4837 787']),zagreb,Bistro Kaptol,pescenica
+set([u'091 762 5821']),zagreb,Brko i Brko,ksaver
+set([u'01 6182 230']),zagreb,Trattoria Fretta Gusto,pescenica
+"set([u'097 777 95', u'097 777 9567'])",zagreb,Voćarna Mali vrt,ksaver
+set([u'091 762 5821']),zagreb,Brko i Brko,pescenica
+set([]),zagreb,Dalmistra,pescenica
+set([u'01 2352 775']),zagreb,Gableci i to,pescenica
+set([u'091 574 0865']),zagreb,Food Harmony,pescenica
+set([u'098 777 577']),zagreb,Vege fino za sve,pescenica
+set([u'091 574 0865']),zagreb,Food Harmony,stupnik
+"set([u'040 365 177', u'1 55 89', u'01 5589 773'])",zagreb,Pyrus,pescenica
+set([]),zagreb,Restoran Avenija,pescenica
+"set([u'097 777 95', u'097 777 9567'])",zagreb,Voćarna Mali vrt,pescenica
+set([u'091 574 0865']),zagreb,Food Harmony,demerje
+set([]),zagreb,R&B Food,pescenica
+set([u'095 359 8268']),zagreb,Krpice sa zeljem,pescenica
+"set([u'01 6182 535', u'61 82 535'])",zagreb,Cydonia,pescenica
+set([u'01 6192 178']),zagreb,Mostovi,pescenica
+set([]),zagreb,R&B Food,jezdovec
+set([u'091 574 0865']),zagreb,Food Harmony,jezdovec
+set([u'01 4810 850']),zagreb,Catering Milenium,cehi
+set([u'091 574 0865']),zagreb,Food Harmony,cehi
+set([]),zagreb,Pizza Bar,srednjaci
+set([u'092 341 6447']),zagreb,Street food Carlito,srednjaci
+set([u'01 2922 414']),zagreb,Pizzeria Amfora,srednjaci
+set([]),zagreb,Pro.Cat. i Gastro,srednjaci
+set([u'01 3816 753']),zagreb,Pizzeria El Mundo,srednjaci
+"set([u'099 407 3274', u'01 2323 377', u'099 576 0334'])",zagreb,Libertas,srednjaci
+set([]),zagreb,Super Kebab,srednjaci
+set([u'01 5560 107']),zagreb,Kebab Maksimir,sesvete
+set([u'01 6199 144']),zagreb,Pizza Slavonija,srednjaci
+set([u'01 400 32']),zagreb,Pizzeria i pečenjarnica XL,sesvete
+set([]),zagreb,Sombrero - Meksikanac,srednjaci
+set([u'01 4616 649']),zagreb,MS Grill,sesvete
+set([u'01 3890 723']),zagreb,Marinero Grill Prečko,srednjaci
+set([u'01 5516 264']),zagreb,Purger King,sredisce
+"set([u'097 777 95', u'097 777 9567'])",zagreb,Voćarna Mali vrt,sesvete
+set([u'095 897 7843']),zagreb,Mambo Catering,srednjaci
+set([u'01 6132 150']),zagreb,Il Mondo,sredisce
+set([]),zagreb,Sombrero - Meksikanac,trg
+set([u'091 574 0865']),zagreb,Food Harmony,sesvete
+set([]),zagreb,Pizzeria Stross,srednjaci
+set([u'385 91 461']),zagreb,Grill Bistro Tomislav,sredisce
+set([u'01 3025 888']),zagreb,Mrak Grill,trg
+set([u'095 359 8268']),zagreb,Krpice sa zeljem,sesvete
+set([u'01 3025 888']),zagreb,Mrak Grill,srednjaci
+set([u'01 4618 052']),zagreb,Fast Food Filip,sredisce
+set([]),zagreb,Family Catering,trg
+"set([u'040 365 177', u'1 55 89', u'01 5589 773'])",zagreb,Pyrus,sesvete
+set([u'01 5560 107']),zagreb,Kebab Maksimir,srednjaci
+set([u'01 5620 335']),zagreb,Kung Food,sredisce
+set([u'095 169 6473']),zagreb,California Burrito bar,trg
+set([u'01 6170 864']),zagreb,Pizzeria Strossmayer,srednjaci
+set([]),zagreb,Pečenjara Tigrić RTL,sredisce
+set([u'01 5560 107']),zagreb,Kebab Maksimir,trg
+"set([u'01 6387 802', u'385 1 6387'])",zagreb,Bon Appetit Catering,srednjaci
+set([u'01 4616 649']),zagreb,MS Grill,sredisce
+"set([u'01 2323 377', u'099 576 0334'])",zagreb,Libertas,trg
+set([u'01 3095 555']),zagreb,Pizzeria Zlatna kuna,srednjaci
+set([u'61 18 831']),zagreb,Grill House Azzuro,sredisce
+"set([u'099 838 1175', u'01 2917 704'])",zagreb,Pizzeria San Marco,trg
+"set([u'385 1 5584', u'01 5584 039'])",zagreb,Špajza,srednjaci
+set([u'01 6199 144']),zagreb,Pizza Slavonija,sredisce
+set([]),zagreb,Pizzeria Stross,trg
+set([u'385 91 461']),zagreb,Grill Bistro Tomislav,srednjaci
+set([u'01 5560 979']),zagreb,Pizza-Boo,sredisce
+set([u'385 91 461']),zagreb,Grill Bistro Tomislav,trg
+set([u'01 2452 834']),zagreb,Favola Catering,srednjaci
+set([u'01 6637 644']),zagreb,Bistro Mon Ami,sredisce
+"set([u'234 34 34', u'01 2343 434'])",zagreb,Pizzeria Tomato - Bukovac,trg
+set([u'01 5620 335']),zagreb,Kung Food,srednjaci
+set([]),zagreb,Sombrero - Meksikanac,sredisce
+"set([u'01 4846 922', u'01 4586 089'])",zagreb,Franky's Pizza Bar,trg
+"set([u'01 5619 990', u'01 561 99'])",zagreb,Zlatna Bula,srednjaci
+"set([u'61 30 300', u'042 212 017'])",zagreb,Pizzeria Domenico,sredisce
+set([u'01 5620 335']),zagreb,Kung Food,trg
+set([u'01 3704 787']),zagreb,Pizzeria Zagabria,srednjaci
+set([]),zagreb,Pizzeria Stross,sredisce
+set([u'01 6199 144']),zagreb,Pizza Slavonija,trg
+set([]),zagreb,Kum,srednjaci
+"set([u'01 5619 990', u'01 561 99'])",zagreb,Zlatna Bula,sredisce
+"set([u'01 2316 438', u'01 231 64'])",zagreb,Pizzeria Gentleman,trg
+set([u'01 5516 264']),zagreb,Purger King,srednjaci
+set([]),zagreb,Kum,sredisce
+"set([u'01 8890 719', u'88 90 719'])",zagreb,Pizzeria Poma,trg
+set([u'01 4810 850']),zagreb,Catering Milenium,srednjaci
+"set([u'01 2323 377', u'099 576 0334'])",zagreb,Libertas,sredisce
+set([u'01 2452 834']),zagreb,Favola Catering,trg
+set([u'098 777 577']),zagreb,Vege fino za sve,srednjaci
+set([u'01 2922 414']),zagreb,Pizzeria Amfora,sredisce
+set([u'099 409 3434']),zagreb,Pizzeria Astro,trg
+set([]),zagreb,Simple Green,srednjaci
+set([u'01 2452 834']),zagreb,Favola Catering,sredisce
+set([u'01 6170 864']),zagreb,Pizzeria Strossmayer,trg
+"set([u'2352 775 095', u'01 2352 775'])",zagreb,Gableci i to 2,srednjaci
+set([u'01 6170 864']),zagreb,Pizzeria Strossmayer,sredisce
+set([]),zagreb,Kitchen & Grill Plac,trg
+"set([u'01 3090 991', u'385 1 3090'])",zagreb,Selski Kutak,srednjaci
+set([u'01 6142 659']),zagreb,Paesano Ristorante Pizzeria,sredisce
+set([u'01 4616 649']),zagreb,MS Grill,trg
+set([]),zagreb,R&B Food,srednjaci
+set([u'56 2 2207']),zagreb,Pizzeria Mezzanotte,sredisce
+"set([u'01 5619 990', u'01 561 99'])",zagreb,Zlatna Bula,trg
+"set([u'63 10 000', u'01 6646 339'])",zagreb,Catering Rajnglica,srednjaci
+set([u'095 359 8268']),zagreb,Krpice sa zeljem,sredisce
+set([u'035 441 244']),zagreb,King Kebab,trg
+set([]),zagreb,Bistro Tanjurček,srednjaci
+"set([u'040 365 177', u'1 55 89', u'01 5589 773'])",zagreb,Pyrus,sredisce
+set([]),zagreb,Voćarna Ceker,trg
+set([]),zagreb,Olla2,srednjaci
+"set([u'2352 775 095', u'01 2352 775'])",zagreb,Gableci i to 2,sredisce
+set([u'01 3704 787']),zagreb,Pizzeria Zagabria,trg
+set([u'01 3079 440']),zagreb,Grizli Catering,srednjaci
+"set([u'01 6182 535', u'61 82 535'])",zagreb,Cydonia,sredisce
+set([u'098 279 194']),zagreb,Pizzeria Čuki,trg
+set([]),zagreb,GTi,srednjaci
+set([u'01 6111 309']),zagreb,Catering Anđeo,sredisce
+set([u'01 2303 294']),zagreb,Pivnica Budweiser,trg
+"set([u'040 365 177', u'1 55 89', u'01 5589 773'])",zagreb,Pyrus,srednjaci
+set([u'01 2352 775']),zagreb,Gableci i to,sredisce
+set([u'01 2408 111']),zagreb,Restoran Kuhinja,trg
+"set([u'01 6182 535', u'61 82 535'])",zagreb,Cydonia,srednjaci
+set([]),zagreb,R&B Food,sredisce
+set([u'385 51 324']),zagreb,Wok by Matija,trg
+set([u'095 359 8268']),zagreb,Krpice sa zeljem,srednjaci
+set([u'098 777 577']),zagreb,Vege fino za sve,sredisce
+set([u'01 4618 052']),zagreb,Fast Food Filip,trg
+"set([u'097 777 95', u'097 777 9567'])",zagreb,Voćarna Mali vrt,srednjaci
+set([u'091 762 5821']),zagreb,Brko i Brko,sredisce
+set([u'01 4837 787']),zagreb,Bistro Kaptol,trg
+set([u'091 574 0865']),zagreb,Food Harmony,srednjaci
+"set([u'097 777 95', u'097 777 9567'])",zagreb,Voćarna Mali vrt,sredisce
+"set([u'01 6182 535', u'61 82 535'])",zagreb,Cydonia,trg
